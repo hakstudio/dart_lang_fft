@@ -39,3 +39,7 @@
 ## 0.2.0
 
 - dart2 compatibility
+
+## 0.2.1
+
+- executable for dart version 3.4.1

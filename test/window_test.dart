@@ -1,4 +1,4 @@
-import 'package:fft/fft.dart';
+import 'package:fft_nullsafety/fft.dart';
 
 import 'package:test/test.dart';
 

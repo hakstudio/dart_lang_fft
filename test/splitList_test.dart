@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:fft/fft.dart';
+import 'package:fft_nullsafety/fft.dart';
 
 main() {
 

@@ -19,3 +19,5 @@ A simple usage example:
 Please file feature requests and bugs at the [issue tracker][tracker].
 
 [tracker]: http://example.com/issues/replaceme
+
+This library has been updated to work with Dart SDK version 3.4.1 (stable) and now includes null safety.
